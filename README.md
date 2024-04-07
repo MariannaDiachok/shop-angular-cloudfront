@@ -1,3 +1,8 @@
+# App URLs
+
+- CloudFront [d2jtomm32pvh50.cloudfront.net]
+- S3 [https://deploywebappstackdeployment-frontendbucketefe2e19c-bhwkwmbtdm5r.s3.amazonaws.com/index.html]
+
 # Shop Angular Cloudfront
 
 Angular version: ~17.
